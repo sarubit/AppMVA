@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">MinhaVidaAcademica</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="entar">Entrar</string>
+    <string name="text_cadastro">Fazer Cadastro</string>
+
+</resources>
